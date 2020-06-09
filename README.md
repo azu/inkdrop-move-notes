@@ -8,7 +8,7 @@ This plugin help you to move your daily notes like `YYYY-MM-DD` to "Archives" no
 
 ## Install
 
-Install with [npm](https://www.npmjs.com/):
+Install with [ipm](https://docs.inkdrop.app/manual/extend-inkdrop-with-plugins):
 
     ipm install move-notes
 
