@@ -56,7 +56,7 @@ module.exports = [
 
 2. Set path to `config.js` from Plugin Setting
 
-![setting image](docs/resources/settings.png)
+![setting image](https://raw.githubusercontent.com/azu/inkdrop-move-notes/master/docs/resources/settings.png)
 
 3. Reload after configuration!
 4. Select "Plugins" →　"Move Notes" → "<commandName>"
