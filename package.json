@@ -1,0 +1,32 @@
+{
+  "name": "inkdrop-move-notes",
+  "version": "1.0.0",
+  "description": "Provide move notes command for Inkdrop.",
+  "keywords": [
+    "inkdrop",
+    "plugin"
+  ],
+  "homepage": "https://github.com/azu/inkdrop-move-notes",
+  "bugs": {
+    "url": "https://github.com/azu/inkdrop-move-notes/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azu/inkdrop-move-notes.git"
+  },
+  "license": "MIT",
+  "author": "azu",
+  "files": [
+    "bin/",
+    "lib/",
+    "src/"
+  ],
+  "main": "lib/inkdrop-move-notes.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
