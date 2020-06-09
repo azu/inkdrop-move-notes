@@ -2,6 +2,8 @@
 
 Provide move notes command for Inkdrop.
 
+This plugin move notes from A to B using pattern matching.
+
 ## UseCase
 
 This plugin help you to move your daily notes like `YYYY-MM-DD` to "Archives" note book.
