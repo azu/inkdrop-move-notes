@@ -65,6 +65,8 @@ module.exports = [
 
 - Move only 100 notes at once 
 
+Tips: This plugin `inkdrop-move-notes:${item.commandName}` as Inkdrop command. You can use it from key [Customizing Keybindings](https://docs.inkdrop.app/manual/customizing-keybindings).
+
 ## Changelog
 
 See [Releases page](https://github.com/azu/inkdrop-move-notes/releases).
