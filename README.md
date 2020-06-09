@@ -10,7 +10,7 @@ This plugin help you to move your daily notes like `YYYY-MM-DD` to "Archives" no
 
 Install with [npm](https://www.npmjs.com/):
 
-    npm install inkdrop-move-notes
+    ipm install inkdrop-move-notes
 
 ## Usage
 
@@ -22,6 +22,7 @@ condig.js should export an Array.
 - `from`: from notebook name
 - `to`: to notebook name
 - `pattern`: predicate function for detecting
+    - If the predicate function return `true`, this plugin move the note from `from` to `to`
 
 `config.js` example:
 
