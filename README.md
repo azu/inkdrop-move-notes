@@ -59,7 +59,7 @@ module.exports = [
 ![setting image](https://raw.githubusercontent.com/azu/inkdrop-move-notes/master/docs/resources/settings.png)
 
 3. Reload after configuration!
-4. Select "Plugins" →　"Move Notes" → "<commandName>"
+4. Select "Plugins" →　"Move Notes" → "{commandName}"
 
 **Limited**
 
