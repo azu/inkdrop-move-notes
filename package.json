@@ -6,6 +6,9 @@
     "inkdrop",
     "plugin"
   ],
+  "engines": {
+    "inkdrop": "^4.x"
+  },
   "homepage": "https://github.com/azu/inkdrop-move-notes",
   "bugs": {
     "url": "https://github.com/azu/inkdrop-move-notes/issues"
